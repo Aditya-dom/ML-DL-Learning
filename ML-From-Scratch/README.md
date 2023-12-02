@@ -329,4 +329,4 @@ but rather to present the inner workings of them in a transparent and accessible
 
 ## Contact
 If there's some implementation you would like to see here or if you're just feeling social,
-feel free to [email](mail:domaditya@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in//).
+feel free to [email](mail:domaditya@gmail.com) me or connect with me on [LinkedIn](https:/adi-dom/www.linkedin.com/in//).
