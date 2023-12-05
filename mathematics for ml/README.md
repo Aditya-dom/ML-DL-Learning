@@ -6,14 +6,14 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adi-dom
-<img src="Title.PNG">
+
+<img src="Title.PNG"  height = "500" width = "450" class= "centerImage" >
 
 # Mathematics for Machine Learning and Deep Learning
 
 ##  Description:    
-This tutorial provides an overview of Mathematics in Machine Learning and Deep Learning, including step-by-step explanations and examples of math problems in these fields. Its aim is to enhance your understanding of mathematics in relation to machine learning and deep learning education. :symbols: :1234:  
-
-<img src="Title_Math.PNG">
+This tutorial provides an overview of Mathematics in Machine Learning and Deep Learning, including step-by-step explanations and examples of math problems in these fields. Its aim is to enhance your understanding of mathematics in relation to machine learning and deep learning education. :symbols: :1234:
+<img src="Title_Math.PNG" height = "400" width = "400" class="center" >
 
 ## Prerequisites:
 Python 3.0 +  
