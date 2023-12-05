@@ -7,7 +7,7 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adi-dom
 
-<img src="Title.PNG"  height = "500" width = "450" class= "centerImage" >
+<img src="Title.PNG"  height = "400" width = "400" class= "centerImage" >
 
 # Mathematics for Machine Learning and Deep Learning
 
