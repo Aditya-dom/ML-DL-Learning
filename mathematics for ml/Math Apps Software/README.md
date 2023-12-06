@@ -16,7 +16,7 @@ numpy
 python <...filename...>.py  
 Example: python ACP_Apps.py    
 
-Run programs in Python IDLE, Spyder, PyCharms, and etc.  
+Run programs in VScode, Python IDLE, Spyder, PyCharms, and etc.  
 
 ## Convert File to software or .EXE  
 pyinstaller --onefile <...filename...>.py  
@@ -24,4 +24,4 @@ Example: pyinstaller --onefile ACP_Apps.py
 When it is successful convert to .EXE, the code will generate the bundle in a subdirectory in "dist" folder.
 
 ## Author:  
-Tin Hang
+* Aditya 
